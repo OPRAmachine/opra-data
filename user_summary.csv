@@ -1,0 +1,905 @@
+,authority,request_count
+0,Aberdeen Board of Education,1
+1,METS Charter School,1
+2,Delran Board of Education,1
+3,Lopatcong Township,1
+4,Town of Belvidere,1
+5,Long Hill Township,1
+6,Long Beach Island School District,1
+7,Princeton Housing Authority,1
+8,"Local Unit Alignment, Reorganization and Consolidation Commission",1
+9,Dunellen School District,1
+10,ECO Charter School,1
+11,Livingston Township School District,1
+12,Deerfield Township,1
+13,Eagleswood Township Board of Education,1
+14,Little Egg Harbor Township Police Department,1
+15,Test Public Body,1
+16,Little Egg Harbor FD3,1
+17,East Rutherford School District,1
+18,Swedesboro-Woolwich Board of Education,1
+19,Little Egg Harbor FD1,1
+20,Sussex County Technical School,1
+21,Linden Roselle Sewerage Authority,1
+22,Liberty Township,1
+23,Randolph Board of Education,1
+24,Sussex Borough,1
+25,Princeton Public Schools,1
+26,Madison Public Schools,1
+27,Cresthaven Academy Charter School,1
+28,Cranford Board of Education,1
+29,Milford Borough,1
+30,Carteret Redevelopment Agency,1
+31,Middlesex Borough School District,1
+32,Pennington Borough,1
+33,Charter Tech High School,1
+34,Metuchen School District,1
+35,Pennsauken Police Department,1
+36,Perth Amboy School District,1
+37,Maywood School District,1
+38,Chesilhurst Borough,1
+39,Phillipsburg School District,1
+40,Upper Pittsgrove Township,1
+41,Marion Thomas Charter School,1
+42,Upper Deerfield Township,1
+43,Union County Utilities Authority,1
+44,Closter Borough,1
+45,Union County Sheriff's Office,1
+46,Union County Improvement Authority,1
+47,Union County College,1
+48,Tuckerton School District,1
+49,Mannington Township,1
+50,Council of NJ State College Locals (CNJSCL),1
+51,Cranbury School District,1
+52,Trenton Board of Education,1
+53,Plainfield Police Department,1
+54,Learning Community Charter School,1
+55,Lawrence Township School District,1
+56,Raritan Borough,1
+57,Elsinboro Township,1
+58,Jackson Township FD 4,1
+59,Galloway Township Public Schools,1
+60,Jackson Township FD 3,1
+61,Jackson Township FD 1,1
+62,Glen Gardner Borough,1
+63,Island Heights School District,1
+64,Glen Rock Public School District,1
+65,Independence Township,1
+66,Hunterdon County Sheriff's Office,1
+67,Hunterdon Central Regional High School,1
+68,Hopewell Valley Regional School District,1
+69,Green Brook Township Public Schools,1
+70,Roxbury Board of Education,1
+71,Ho-Ho-Kus Borough,1
+72,HIghpoint Regional School District,1
+73,Somerville Board of Education,1
+74,Sayreville School District,1
+75,Shiloh Borough,1
+76,Seaside Heights School District,1
+77,Hamilton School District (Atlantic),1
+78,Secaucus Public Schools,1
+79,Senate Republican Office,1
+80,Hampton Township,1
+81,New Jersey State Firemen's Association,1
+82,Harding Township,1
+83,Frenchtown Borough,1
+84,Millburn Board of Education,1
+85,Jamesburg Board of Education,1
+86,Jersey City Board of Education,1
+87,Lavallette Board of Education,1
+88,Summit Public Schools,1
+89,Readington Township,1
+90,Stow Creek Township,1
+91,Stillwater Township,1
+92,State Ethics Commission,1
+93,Fair Hills Borough,1
+94,Stanhope Borough,1
+95,Lafayette Township,1
+96,Spring Lake Heights Board of Education,1
+97,Ridgewood School District,1
+98,Spotswood Board of Education,1
+99,Knowlton Township,1
+100,Fort Lee Board of Education,1
+101,River Vale Township,1
+102,Frankford Township,1
+103,Franklin Board of Education,1
+104,Riverdale Borough,1
+105,Kenilworth Board of Education,1
+106,Robbinsville Board of Education,1
+107,South River School District,1
+108,Franklin Township (Warren),1
+109,Franklin Township Public Schools,1
+110,Jersey City Community Charter School,1
+111,South Plainfield School District,1
+112,Rochelle Park School District,1
+113,Carlstadt-East Rutherford Board of Education,1
+114,Mansfield Township Police Department,1
+115,Millstone Board of Education,1
+116,Bethlehem Township,1
+117,West Orange Board of Education,1
+118,Newark Public Schools,1
+119,Morris County Police Academy,1
+120,Atlantic County Board of Elections,1
+121,Bloomingdale Borough,1
+122,Morris County Improvement Authority,1
+123,Office of the Public Defender,1
+124,Moorestown Public Schools,1
+125,Office of Legislative Services,1
+126,New Jersey Division of Criminal Justice,1
+127,Woodbury Heights Borough,1
+128,Wayne Board of Education,1
+129,Watchung Hills Regional Board of Education,1
+130,Old Bridge MUA,1
+131,Montville Township Public Schools,1
+132,Washington Township Police Department,1
+133,Bay Head School District,1
+134,Brick Township FD2,1
+135,Brick Township FD3,1
+136,Wenonah Borough,1
+137,Ocean Township Sewage,1
+138,Parsippany-Troy Hills School District,1
+139,Ocean Township School District,1
+140,New Jersey Board of Public Utilities,1
+141,New Jersey Counties Excess Joint Insurance Fund,1
+142,Beach Haven Sewage Authority,1
+143,White Township,1
+144,"New Jersey Department of Community Affairs, Division of Sandy Recovery",1
+145,Wood-Ridge Borough,1
+146,North Plainfield School District,1
+147,Westville Borough,1
+148,New Jersey Department of Labor Board of Review,1
+149,Westfield Public Schools,1
+150,Ocean County Tax Board,1
+151,Neptune City Board of Education,1
+152,West Windsor-Plainsboro School District,1
+153,Woodbridge School District,1
+154,Atlantic County Utilities Authority,1
+155,Atlantic County Superintendent of Schools,1
+156,"New Jersey Department of Labor, Division of Workers Compensation",1
+157,Ocean County Vocational Technical School,1
+158,Ocean Gate School District,1
+159,Ocean Township Board of Education (Monmouth),1
+160,Atlantic County Improvement Authority,1
+161,New Jersey Educational Facilities Authority,1
+162,Washington Township (Warren),1
+163,Brick Township FD1,1
+164,New Jersey Historic Trust,1
+165,New Jersey Juvenile Justice Commission,1
+166,Monmouth County Chiefs of Police Association,1
+167,New Jersey Health Care Facilities Financing Authority,1
+168,Paramus Board of Education,1
+169,New Jersey Office of Highway Traffic Safety,1
+170,Wallington Board of Education,1
+171,Camden City Housing Authority,1
+172,New Jersey Racing Commission,1
+173,Waldwick School District,1
+174,Wanaque Borough,1
+175,Paramus Borough Building Department,1
+176,Camden County Improvement Authority,1
+177,Camden County Library System,1
+178,Milltown School District,1
+179,New Jersey Redevelopment Authority,1
+180,Woodstown Borough,1
+181,Millstone Borough,1
+182,New Jersey Sports and Exhibition Authority,1
+183,Victory Gardens Borough,1
+184,Cape May County Municipal Utilities Authority,1
+185,Camden County Educational Services Commission,1
+186,Burlington Housing Authority,1
+187,New Jersey Casino Control Commission,1
+188,Burlington County Bridge Commission,1
+189,Andover Borough,1
+190,Monmouth County Police Academy,1
+191,New Jersey Insurance Underwriting Association,1
+192,Alpine Borough,1
+193,Oldmans Township,1
+194,Warren Township Board of Education,1
+195,Montclair Board of Education,1
+196,Bridgewater-Raritan Board of Education,1
+197,Monroe MUA,1
+198,Oradell Borough,1
+199,Oxford Township,1
+200,Old Bridge School District,1
+201,Monroe Township School District (Middlesex),1
+202,North Haledon Borough,2
+203,Hope Township,2
+204,"New Jersey Department of Community Affairs, Office of Ethics",2
+205,Rowan Rutgers Board of Governors,2
+206,New Jersey Division of Law,2
+207,Housing Authority of Bergen County,2
+208,New Jersey Department of Banking and Insurance,2
+209,Harvey Cedars Borough,2
+210,Salem City,2
+211,New Jersey Division of Gaming Enforcement,2
+212,Salem County,2
+213,New Jersey Office of Homeland Security and Preparedness,2
+214,Newfield Borough,2
+215,Haworth Borough,2
+216,New Jersey Office of Administrative Law,2
+217,New Milford Borough,2
+218,Hi-Nella Borough,2
+219,Rocky Hill Borough,2
+220,Island Heights Borough,2
+221,Sandyston Township,2
+222,"New Jersey Department of Labor, Commissioner's Office",2
+223,Rockleigh Borough,2
+224,Lawnside Borough,2
+225,Ocean County College,2
+226,Montvale Borough,2
+227,Longport Borough,2
+228,Point Pleasant Beach School District,2
+229,Montague Township,2
+230,Pohatcong Township,2
+231,Old Tappan Borough,2
+232,Manasquan Board of Education,2
+233,Plumstead MUA,2
+234,Manchester Township School District,2
+235,Monmouth County Park System,2
+236,Monmouth County Bayshore Outfall Authority,2
+237,Harrington Park Borough,2
+238,Mantoloking Borough,2
+239,Piscataway Township Police Department,2
+240,Pine Valley Borough,2
+241,Marlboro Board of Education,2
+242,Pilesgrove Township,2
+243,Mine Hill Township,2
+244,Paramus Borough Police Department,2
+245,Pemberton Township Board of Education,2
+246,Passaic Board of Education,2
+247,Pompton Lakes Borough,2
+248,Northwest Bergen County Utilities Authority,2
+249,Port Authority of New York & New Jersey,2
+250,Montville Township,2
+251,River Edge Borough,2
+252,Ringwood Borough,2
+253,Ocean County Soil Conservation District,2
+254,Netcong Borough,2
+255,Ridgefield School District,2
+256,Lakehurst Borough,2
+257,Lakehurst School District,2
+258,Lakewood FD 1,2
+259,Lakewood Housing Authority,2
+260,Lakewood MUA,2
+261,"NJ Department of Health, Division of Medical Marijuana",2
+262,"Lakewood Student Transportation Authority, LLC.",2
+263,Mountain Lakes Borough,2
+264,Lawrence Township (Cumberland),2
+265,Mount Holly MUA,2
+266,Lincoln Park Borough,2
+267,Linwoood City,2
+268,Morris County Parks Commission,2
+269,Little Egg Harbor School District,2
+270,Quinton Township,2
+271,Little Falls Township,2
+272,Port Republic City,2
+273,Harmony Township,2
+274,Senate Democratic Office,2
+275,Hardwick Township,2
+276,Clifton Board of Education,2
+277,Corbin City,2
+278,Cranbury Township Police Department,2
+279,Cumberland County,2
+280,Delran Fire District #1,2
+281,Demarest Borough,2
+282,The College of New Jersey,2
+283,Tewksbury Township,2
+284,East Greenwich Township,2
+285,Tavistock Borough,2
+286,Sussex County,2
+287,Elmer Borough,2
+288,Emerson Borough,2
+289,Englewood Cliffs Borough,2
+290,Essex Fells Borough,2
+291,Estell Manor,2
+292,Fairfield Township (Cumberland),2
+293,Stafford Township School District,2
+294,Fieldsboro Borough,2
+295,Folsom Borough,2
+296,Franklin Borough,2
+297,Chester Borough,2
+298,Fredon Township,2
+299,Chatham Township,2
+300,Carlstadt Borough,2
+301,Allamuchy Township,2
+302,Woodlynne Borough,2
+303,Woodland Park Borough,2
+304,Andover Township,2
+305,Asbury Park Board of Education,2
+306,Assembly Democratic Office,2
+307,Assembly Republican Office,2
+308,Atlantic Cape Community College,2
+309,Atlantic County Clerk's Office,2
+310,Audubon Park Borough,2
+311,Bergen County Prosecutor's Office,2
+312,Berkeley Township Housing Authority,2
+313,Berkeley Township School District,2
+314,Branchburg Township,2
+315,Branchville Borough,2
+316,Washington Township (Bergen),2
+317,Warren County,2
+318,Burlington County Prosecutor's Office,2
+319,Walpack Township,2
+320,Camden City Parking Authority,2
+321,Camden County Board of Elections,2
+322,Urban Enterprise Zone,2
+323,South Orange-Maplewood Board of Education,2
+324,New Jersey State Parole Board,2
+325,Gloucester Township MUA,2
+326,South Brunswick Board of Education,2
+327,South Hackensack Township,2
+328,Greenwich Township (Warren),2
+329,Hamilton (Mercer) Board of Education,2
+330,Ship Bottom Borough,2
+331,Gibbsboro Borough,2
+332,South Jersey Transportation Authority,2
+333,Hamilton Township Police Department,2
+334,Green Township,2
+335,Upper Saddle River Borough,3
+336,Hudson County Prosecutor's Office,3
+337,Highland Park Board of Education,3
+338,Point Pleasant Borough School District,3
+339,Greenwich Township (Gloucester),3
+340,Town of Boonton,3
+341,Gloucester Township Board of Education,3
+342,Penns Grove Borough,3
+343,Delanco Township,3
+344,Totowa Borough,3
+345,Brookdale Community College,3
+346,Washington Borough,3
+347,Department of Military & Veterans Affairs,3
+348,Toms River MUA,3
+349,Upper Township,3
+350,Atlantic County Sheriff's Office,3
+351,Central Regional School District,3
+352,Alloway Township,3
+353,Brooklawn Borough,3
+354,Northvale Borough,3
+355,Magnolia Borough,3
+356,Woodcliff Lake Borough,3
+357,Hopewell Borough,3
+358,Maurice River Township,3
+359,Cherry Hill Board of Education,3
+360,Matawan-Aberdeen Regional School District,3
+361,Carneys Point Township,3
+362,Greenwich Township (Cumberland),3
+363,Cape May Point Borough,3
+364,Camden Redevelopment Agency,3
+365,Camden County MUA,3
+366,Piscataway Township School District,3
+367,Paulsboro Borough,3
+368,Berkeley MUA,3
+369,Pittsgrove Township,3
+370,Camden Board of Education,3
+371,Woodland Township,3
+372,Barnegat Light Borough,3
+373,Cresskill Borough,3
+374,Medford Lakes Borough,3
+375,National Park Borough,3
+376,Bass River Township,3
+377,Winfield Township,3
+378,Jackson Township School District,3
+379,Elmwood Park Borough,3
+380,South Amboy School District,3
+381,Oaklyn Borough,3
+382,Laurel Springs Borough,3
+383,Weymouth Township,3
+384,Franklin Lakes Borough,3
+385,South Monmouth Regional Sewerage Authority,3
+386,Ocean County Board of Social Services,3
+387,Glassboro Borough,3
+388,Bernardsville Borough,3
+389,Flemington Borough,3
+390,Lakewod Township HA,3
+391,Springfield Township (Burlington),3
+392,Morris County Prosecutor's Office,3
+393,Hanover Township,3
+394,Alexandria Township,3
+395,Little Egg Harbor FD2,3
+396,William Paterson University,3
+397,Teterboro Borough,3
+398,Freehold Township Board of Education,3
+399,Westampton Township,3
+400,Tenafly Borough,3
+401,Little Egg Harbor MUA,3
+402,Beach Haven Borough,3
+403,Swedesboro Borough,3
+404,Mount Ephraim Borough,3
+405,Norwood Borough,3
+406,Ramsey Borough,3
+407,Ogdensburg Borough,3
+408,Sussex County Community College,3
+409,Roseland Borough,3
+410,Edgewater Borough,3
+411,Ocean County Utilities Authority,4
+412,Berlin Township,4
+413,Middlesex County Utilities Authority,4
+414,Bernards Township,4
+415,Vernon Township,4
+416,Somerset County,4
+417,Blairstown Township,4
+418,Waldwick Borough,4
+419,Woodbine Borough,4
+420,Morris Township,4
+421,Hopatcong Borough,4
+422,Montgomery Township,4
+423,Palmyra Borough,4
+424,Runnemede Borough,4
+425,Butler Borough,4
+426,Morris County MUA,4
+427,West Cape May Borough,4
+428,Monmouth County Regional Health Commission,4
+429,Boonton Township,4
+430,"New Jersey Department of Community Affairs, Division of Fire Safety",4
+431,Barrington Borough,4
+432,Mount Arlington Borough,4
+433,Audobon Borough,4
+434,Robbinsville Township,4
+435,Merchantville Borough,4
+436,Casino Reinvestment Development Authority,4
+437,Shamong Township,4
+438,Eagleswood Township,4
+439,Allendale Borough,4
+440,Little Ferry Borough,4
+441,South Harrison Township,4
+442,Ramapo College of NJ,4
+443,New Jersey Office of Information Technology,4
+444,Elizabeth Board of Education,4
+445,Elk Township,4
+446,Roosevelt Borough,4
+447,Lodi School District,4
+448,Glen Rock Borough,4
+449,Glen Ridge Borough,4
+450,Stone Harbor Borough,4
+451,Ridgefield Park Village,4
+452,Rockaway Borough,4
+453,New Jersey Society for the Prevention of Cruelty to Animals,4
+454,Woolwich Township,4
+455,New Jersey State Comptroller's Office,4
+456,Southern Regional School District,4
+457,Riverton Borough,4
+458,Southampton Township,4
+459,Frelinghuysen Township,4
+460,Lambertville City,4
+461,Long Beach Township,4
+462,Downe Township,4
+463,"Department of Labor, Division of Public Safety and Occupational Safety and Health",4
+464,New Jersey Department of State,4
+465,Pequannock Township,4
+466,North Brunswick Board of Education,4
+467,Atlantic County Prosecutor's Office,4
+468,Chester Township,4
+469,High Bridge Borough,4
+470,Hardyston Township,4
+471,Long Branch Board of Education,4
+472,Clementon Borough,4
+473,Hamburg Borough,4
+474,Clayton Borough,4
+475,New Jersey Government Records Council,4
+476,Lower Alloways Creek Township,4
+477,Commercial Township,4
+478,Town of Hackettstown,4
+479,Pitman Borough,4
+480,New Jersey Election Law Enforcement Commission,4
+481,Woodbury City,5
+482,New Jersey Schools Development Authority,5
+483,New Jersey Division of Consumer Affairs,5
+484,New Jersey Pinelands Commission,5
+485,Barnegat Township School District,5
+486,Wharton Borough,5
+487,Hawthorne Borough,5
+488,Avalon Borough,5
+489,New Jersey Housing & Mortgage Finance Agency,5
+490,Westwood Borough,5
+491,Sea Isle City,5
+492,"New Jersey Department of Community Affairs, Division of Housing and Community Resources",5
+493,New Jersey School Boards Association,5
+494,New Jersey Department of Corrections,5
+495,Midland Park Borough,5
+496,Ocean Gate Borough,5
+497,Chesterfield Township,5
+498,Pine Hill Borough,5
+499,Cliffside Park Borough,5
+500,Mansfield Township (Burlington),5
+501,Rowan University,5
+502,Plumsted Township,5
+503,Hudson County,5
+504,Town of Guttenberg,5
+505,Madison Borough,5
+506,Lumberton Township,5
+507,Toms River FD2,5
+508,Loch Arbour Village,5
+509,Hunterdon County,5
+510,East Brunswick Public Schools,5
+511,Sussex County Sheriff's Office,5
+512,Sussex County Prosecutor's Office,5
+513,Surf City Borough,5
+514,Garwood Borough,5
+515,Fairview Borough,5
+516,Spring Lake Board of Education,5
+517,Kinnelon Borough,5
+518,Maywood Borough,5
+519,Mendham Township,5
+520,Hopewell Township (Mercer),5
+521,Pemberton Borough,5
+522,Mount Olive Township,5
+523,Berlin Borough,5
+524,Morris County Sheriff's Office,5
+525,Hillsdale Borough,5
+526,Watchung Borough,5
+527,Washington Township (Morris),5
+528,Chatham Borough,5
+529,Saddle River Borough,5
+530,Wantage Township,5
+531,Saddle Brook Township,5
+532,Washington Township (Burlington),5
+533,Middlesex County Improvement Authority,5
+534,Park Ridge Borough,5
+535,Jefferson Township,5
+536,Roxbury Township,6
+537,Somerdale Borough,6
+538,West Wildwood Borough,6
+539,North Arlington Borough,6
+540,Summit City,6
+541,Randolph Township,6
+542,West Windsor Township,6
+543,West Milford Township,6
+544,West Caldwell Township,6
+545,Princeton Township,6
+546,Pine Beach Borough,6
+547,North Caldwell Borough,6
+548,Washington Township (Gloucester),6
+549,South Bound Brook Borough,6
+550,Warren Township,6
+551,New Providence Borough,6
+552,Wallington Borough,6
+553,Upper Freehold Township,6
+554,Wyckoff Township,6
+555,Interlaken Borough,6
+556,Egg Harbor City,6
+557,Brick Township Housing Authority,6
+558,Municipal Excess Liability Joint Insurance Fund,6
+559,Mullica Township,6
+560,Fairfield Township (Essex),6
+561,Florham Park Borough,6
+562,Morris Plains Borough,6
+563,Garfield City,6
+564,Haddon Heights Borough,6
+565,Haddonfield Borough,6
+566,Haledon Borough,6
+567,Harrison Township,6
+568,Highlands Borough,6
+569,Hillside Township,6
+570,Holmdel Board of Education,6
+571,Bordentown City,6
+572,Lacey MUA,6
+573,Mercer County,6
+574,Mendham Borough,6
+575,Berkeley Sewage Authority,6
+576,Marlboro Township Police Department,6
+577,East Hanover Township,6
+578,New Brunswick Housing Authority,6
+579,Fanwood Borough,6
+580,Mantua Township,6
+581,Cedar Grove Township,6
+582,Collingswood Board of Education,6
+583,"New Jersey Department of Health, Division of Epidemiology, Environmental, and Occupational Health",6
+584,Buena Borough,6
+585,Clinton Township,6
+586,New Jersey Division of Children & Families,6
+587,Cinnaminson Township,6
+588,Byram Township,6
+589,New Jersey Turnpike Authority,7
+590,Lodi Board of Education,7
+591,New Jersey Motor Vehicle Commission,7
+592,New Jersey State League of Municipalities,7
+593,Verona Township,7
+594,Wrightstown Borough,7
+595,Helmetta Borough,7
+596,Caldwell Borough,7
+597,Ridgewood Public School District,7
+598,Hightstown Borough,7
+599,Rutherford Borough,7
+600,Pennsville Township,7
+601,Warren County Prosecutor's Office,7
+602,New Jersey Division of Alcoholic Beverage Control,7
+603,Ridgefield Borough,7
+604,Beverly City,7
+605,New Jersey Department of Transportation,7
+606,Bordentown Township,7
+607,Town of Clinton,7
+608,Bay Head Borough,7
+609,Town of West New York,7
+610,Tabernacle Township,7
+611,Gloucester County,7
+612,Town of Westfield,7
+613,East Rutherford Borough,7
+614,"New Jersey Department of Community Affairs, Division of Local Government Services",7
+615,East Newark Borough,7
+616,Town of Kearny,7
+617,Springfield Township (Union),7
+618,Margate City,7
+619,Farmingdale Borough,7
+620,Union County,7
+621,Sparta Township,7
+622,Town of Harrison,7
+623,Town of Morristown,7
+624,Bridgewater Township,8
+625,Edison School District,8
+626,Lakewood Board of Education,8
+627,Denville Township,8
+628,Dennis Township,8
+629,Lyndhurst Township,8
+630,Leonia Borough,8
+631,Gloucester City,8
+632,Hopewell Township (Cumberland),8
+633,Essex County,8
+634,Cape May County,8
+635,Fair Lawn Borough,8
+636,Sea Bright Borough,8
+637,Weehawken Township,8
+638,Hasbrouck Heights Borough,8
+639,Town of Hammonton,8
+640,Shrewsbury Borough,8
+641,South Orange Village,8
+642,Somers Point City,8
+643,Roselle Park Borough,8
+644,Hainesport Township,8
+645,Burlington County,8
+646,Passaic County Sheriff's Office,8
+647,Millburn Township,8
+648,Belleville Township,8
+649,Absecon City,8
+650,Allentown Borough,8
+651,Bedminster Township,8
+652,Oakland Borough,8
+653,Mountainside Borough,8
+654,Ocean City,8
+655,Jackson MUA,9
+656,Lake Como Borough,9
+657,Dumont Borough,9
+658,Brick MUA,9
+659,Kenilworth Borough,9
+660,Florence Township,9
+661,Berkeley Heights Township,9
+662,Paramus Borough,9
+663,Pemberton Township,9
+664,Allenhurst Borough,9
+665,Livingston Township,9
+666,Monmouth Beach Borough,9
+667,Maple Shade Township,9
+668,Ocean County Library,9
+669,New Jersey Economic Development Authority,9
+670,Burlington City,9
+671,Logan Township,9
+672,Hackensack City,9
+673,Delran Township,9
+674,Ocean Township (Monmouth),9
+675,Fort Lee Borough,9
+676,Wildwood Crest Borough,9
+677,Edgewater Park Borough,9
+678,Cranford Township,10
+679,Scotch Plains Township,10
+680,Waterford Township,10
+681,Roselle Borough,10
+682,Office of the Governor,10
+683,Bogota Borough,10
+684,Moorestown Township,10
+685,Nutley Board of Education,10
+686,Orange City,10
+687,Union Township (Union),10
+688,Green Brook Township,10
+689,Jackson Township FD 2,10
+690,Englewood City,10
+691,Ridgewood Village,10
+692,Cape May City,10
+693,Little Silver Borough,10
+694,Eastampton Township,10
+695,Bridgeton City,10
+696,New Jersey Attorney General's Office,11
+697,Medford Township,11
+698,Hillsborough Township,11
+699,Brick Township School District,11
+700,Passaic City,11
+701,Winslow Township,11
+702,Rumson Borough,11
+703,Colts Neck Township Police Department,11
+704,Buena Vista Township,11
+705,Bellmawr Borough,11
+706,Prospect Park Borough,11
+707,Raritan Township,11
+708,Shrewsbury Township,11
+709,New Brunswick Parking Authority,11
+710,Spring Lake Heights Borough,11
+711,Mount Laurel Township,11
+712,Morris County,11
+713,Camden County,11
+714,Union City,11
+715,Hunterdon County Prosecutor's Office,11
+716,Haddon Township,12
+717,Plainsboro,12
+718,Moonachie Borough,12
+719,Millville City,12
+720,Riverside Township,12
+721,Fair Haven Borough,12
+722,Evesham Township,12
+723,North Hanover Township,12
+724,Pennsauken Township,12
+725,Mount Holly Township,12
+726,Town of Secaucus,12
+727,Spring Lake Borough,12
+728,Hoboken City,12
+729,Palisades Park Borough,13
+730,East Windsor Township,13
+731,Teaneck Township,13
+732,Parsippany-Troy Hills Township,13
+733,Jamesburg Borough,13
+734,West Long Branch Borough,13
+735,Pleasantville City,13
+736,Somerville Borough,13
+737,Vineland City,13
+738,Toms River FD1,13
+739,Bound Brook Borough,13
+740,Carteret School District,13
+741,Tinton Falls Borough,13
+742,North Bergen Township,13
+743,Lavallette Borough,13
+744,Lower Township,13
+745,Oceanport Borough,13
+746,Ventnor City,13
+747,Burlington Township,13
+748,Galloway Township,14
+749,Montclair Township,14
+750,Mansfield Township (Warren),14
+751,Voorhees Township,14
+752,Lodi Borough,14
+753,Rahway City,14
+754,West Orange Township,14
+755,Clark Township,14
+756,Town of Dover,14
+757,New Jersey Department of Education,14
+758,North Wildwood City,14
+759,Northfield City,14
+760,Bloomfield Township,14
+761,Monroe Township (Gloucester),14
+762,Wayne Township,14
+763,Manville Borough,15
+764,Avon-by-the-sea Borough,15
+765,Bergenfield Borough,15
+766,Willingboro Township,15
+767,New Brunswick Board of Education,15
+768,Town of Newton,15
+769,East Orange City,15
+770,Irvington Township,15
+771,Keyport Borough,15
+772,North Plainfield Borough,15
+773,Deptford Township,16
+774,Stockton University,16
+775,Union Beach Borough,16
+776,Atlantic County,16
+777,Freehold Borough,16
+778,Oceanport Police Department,16
+779,Eatontown Borough,17
+780,Mahwah Township,17
+781,Ocean County Clerk's Office,17
+782,Dunellen Borough,17
+783,Matawan Borough,17
+784,Ocean County Board of Elections,17
+785,Cherry Hill Township,17
+786,Clifton City,17
+787,Bayonne City,17
+788,Toms River School District,17
+789,Brielle Borough,18
+790,Hamilton Township (Atlantic),18
+791,Maplewood Township,18
+792,Manalapan Township,18
+793,Lindenwold Borough,18
+794,Middlesex Borough,18
+795,South Brunswick Township,18
+796,South Plainfield Borough,19
+797,Jersey City,19
+798,South Amboy City,19
+799,Deal Borough,19
+800,Colts Neck Township,19
+801,Milltown Borough,19
+802,Highland Park Borough,19
+803,"NJ Department of Health Division of Public Health Infrastructure, Laboratories and Emergency Preparedness",19
+804,New Jersey Department of the Treasury,19
+805,Ocean Township (Ocean),20
+806,Egg Harbor Township,20
+807,Seaside Park Borough,20
+808,Bradley Beach Borough,21
+809,Spotswood Borough,21
+810,Plainfield Board of Education,21
+811,Long Branch City,21
+812,Franklin Township (Somerset),21
+813,Collingswood Borough,22
+814,Keansburg Borough,22
+815,Manasquan Borough,22
+816,Belmar Borough,22
+817,Millstone Township,23
+818,Holmdel Township,23
+819,Freehold Township,23
+820,Plainfield City,23
+821,Piscataway Township,23
+822,Marlboro Township,24
+823,Sea Girt Borough,24
+824,Metuchen Borough,24
+825,Middle Township,24
+826,North Brunswick Township,25
+827,Bergen County,25
+828,Atlantic Highlands Borough,25
+829,Kean University,25
+830,Monroe Township (Middlesex),25
+831,Rockaway Township,26
+832,Lawrence Township (Mercer),26
+833,Cranbury Township,26
+834,East Brunswick Township,27
+835,Gloucester Township,27
+836,Middlesex County Prosecutor's Office,28
+837,Ocean County Health Department,28
+838,Paterson City,29
+839,Ewing Township,29
+840,Brigantine City,30
+841,Hazlet Township,30
+842,Neptune Township,31
+843,Sayreville Borough,32
+844,Trenton City,32
+845,Newark City,32
+846,Red Bank Borough,32
+847,Stratford Borough,33
+848,Middletown Township,33
+849,Monmouth County,34
+850,Ocean County,34
+851,New Hanover Township,35
+852,Englishtown Borough,35
+853,Monmouth County Sheriff's Office,36
+854,Perth Amboy City,36
+855,Pinelands Regional School District,36
+856,Camden City,36
+857,Asbury Park City,37
+858,Monmouth County Prosecutor's Office,37
+859,West Deptford Township,38
+860,New Jersey State Police,39
+861,Elizabeth City,39
+862,Point Pleasant Borough,39
+863,Wall Township,40
+864,Lacey Township School District,41
+865,Beachwood Borough,42
+866,Stafford Township,44
+867,Franklin Township (Gloucester),45
+868,South Toms River Borough,45
+869,Lakewood Township,48
+870,Rutgers University,48
+871,Atlantic City,49
+872,Middlesex County,49
+873,Tuckerton Borough,50
+874,Aberdeen Township,51
+875,Barnegat Township,51
+876,Woodbridge Township,52
+877,Ocean County Sheriff's Department,52
+878,Alpha Borough,52
+879,Manchester Township,54
+880,Toms River Police Department,56
+881,Point Pleasant Beach Borough,56
+882,Seaside Heights Borough,58
+883,Hamilton Township (Mercer),59
+884,Linden City,59
+885,Town of Phillipsburg,60
+886,Edison Township,61
+887,Rochelle Park Township,62
+888,New Jersey Department of Environmental Protection,65
+889,Ocean County Prosecutor's Office,65
+890,Old Bridge Township,68
+891,South River Borough,68
+892,Howell Township,69
+893,Wildwood City,72
+894,Neptune City Borough,82
+895,Little Egg Harbor Township,92
+896,Jackson Township,95
+897,New Brunswick City,98
+898,Toms River Township,119
+899,Nutley Township,124
+900,Carteret Borough,130
+901,Lacey Township,133
+902,Berkeley Township,174
+903,Brick Township,200
